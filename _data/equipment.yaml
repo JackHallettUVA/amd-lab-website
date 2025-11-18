@@ -1,3 +1,13 @@
+- title: Nanoindentor
+  subtitle: Machine for running hardness tests
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: The Nanoindenter is a machine that using an indenting head to make small indents in the surface of a material. A microscope is used to locate a position on the sample to make the indent, and then the sample is moved under the indenting head to make the measurement. This process allow for the measurement of properties as both a function of position, as well as depth as the indenter goes through the material. This allows for quantitative characterization of the material.  
+  repo: greenelab/lab-website-template
+  tags:
+    - equipment
+
 - title: Cool Dataset
   subtitle: a subtitle
   group: featured
